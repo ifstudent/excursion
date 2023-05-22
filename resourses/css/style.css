@@ -10,3 +10,7 @@ body {
     color: white;
     text-align: center;
 }
+.link--cta {
+    font-size: 16px;
+    color: aqua;
+}
